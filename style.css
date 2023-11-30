@@ -1,0 +1,48 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 550px;
+}
+
+input {
+    width: 400px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 7px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 3px;
+
+}
+
+.add {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    width: 400px;
+    margin-left: 14px;
+    font-size: 20px;
+    padding: 5px;
+    background-color: rgb(242, 246, 246);
+}
+
+
+hr {
+    margin: 0%;
+    padding: 0%;
+}
+
+.list:hover {
+    color: blue;
+    cursor: pointer;
+}
